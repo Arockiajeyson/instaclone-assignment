@@ -1,0 +1,27 @@
+ 
+{
+    "user":
+                [
+            {"name":"Siva",
+            "location":"Bengaluru",
+            "likes":140394,
+            "description": "One touch of nature makes the whole world kin",
+            "PostImage": "./image/natur-1.jpg",
+            "date": "16/11/2022"
+            },
+            {"name":"Neeraj",
+            "location":"Pune",
+            "likes":20495,
+            "description": "Go where you feel most alive",
+            "PostImage": "./image/natur-2.jpg",
+            "date": "15/11/2022"
+            },
+            {"name":"Rahul",
+            "location":"Hyderabad",
+            "likes":49832,
+            "description": "Nature is my medicine",
+            "PostImage": "./image/natur-3.jpg",
+            "date": "10/11/2022"
+            }
+            ]
+}

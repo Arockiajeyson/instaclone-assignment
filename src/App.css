@@ -1,0 +1,99 @@
+.main-div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: aqua;
+}
+.main-img{
+  width: 100%;
+  height: 250px;
+  margin-top: 10px;
+}
+.like-img,.share-img,.commnt-img{
+  width: 30px;
+  margin-left: 10px;
+}
+.inner-div{
+  border: 2px solid rgba(219, 214, 214, 0.792);
+  width: 450px;
+  margin-top: 10px;
+  border-radius: 10px;
+  background-color: white;
+}
+/* .date-class{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+} */
+.name-tag,.location-tag,.date-class,.like-class,.description{
+  margin-left: 10px;
+}
+.date-class{
+  margin-left: 300px;
+}
+.description{
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 5px;
+}
+.name-tag{
+  font-weight: bold;
+}
+.hearder{
+  width: 100%;
+  height: 60px;
+  border: 1px solid wheat;
+  background-color: white;
+}
+.aside-class{
+  position: relative;
+}
+.date-class{
+  position: absolute;
+  top:0;
+  right: 5px;
+}
+.insta-icon{
+  width: 30px;
+  margin-top: 17px;
+  position: absolute;
+  right: 15%;
+}
+.logo{
+  width: 150px;
+  margin-top: 10px;
+  position: relative;
+  left: 150px;
+}
+.router-main-div{
+  display: flex;
+  flex-direction: row;
+} 
+.first-div{
+  width: 45%;
+  height: 700px;
+  margin-left: 200px;
+}
+.second-div{
+  width: 49%;
+  height: 700px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  color: green;
+}
+button{
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  font-size: 20px;
+  color: green;
+  border: 2px solid green;
+}
+.router-img{
+  width: 100%;
+  height: 100%;
+}
